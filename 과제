@@ -4,8 +4,7 @@
 
 # 1. 코드
 
-<pre>
-<code>
+'''
 
 var cols, rows;
 var scl = 20;
@@ -70,8 +69,7 @@ normalMaterial();//구체에 normalMaterial 적용
 sphere(55);//구 생성
 }
 
-</code>
-</pre>
+'''
 ***
 
 ## 2. 실습
