@@ -78,3 +78,8 @@ sphere(55);//구 생성
 ![3](https://user-images.githubusercontent.com/50646883/161415364-2587eb3b-85a7-4791-aea4-4fb274d814b4.png)
 ![4](https://user-images.githubusercontent.com/50646883/161415365-8e3d8f21-cfde-4e47-b5bb-896c6d9c99f7.png)
 ![1](https://user-images.githubusercontent.com/50646883/161415366-d516fd8c-ec1a-4ed5-b030-81c12b054de4.png)
+
+gif
+![과제_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/50646883/161415402-9ebe77d0-6586-4641-81bd-162698256ad6.gif)
+gif상에서는 화질이 조금 깨져서 나온다.
+
