@@ -74,3 +74,7 @@ sphere(55);//구 생성
 
 ## 2. 실습
 
+![2](https://user-images.githubusercontent.com/50646883/161415362-96ca52f1-e5c4-48f9-b344-1847cebd7c5b.png)
+![3](https://user-images.githubusercontent.com/50646883/161415364-2587eb3b-85a7-4791-aea4-4fb274d814b4.png)
+![4](https://user-images.githubusercontent.com/50646883/161415365-8e3d8f21-cfde-4e47-b5bb-896c6d9c99f7.png)
+![1](https://user-images.githubusercontent.com/50646883/161415366-d516fd8c-ec1a-4ed5-b030-81c12b054de4.png)
